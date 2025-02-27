@@ -12,7 +12,6 @@ I am Justin Curtsinger, a student at Arizona State University studying Media Art
 - - 🌱 I’m currently learning front-end development and focusing on HTML, CSS, and JavaScript.
 
 - 📫 How to reach me:
-- [ELEV8.DEV](https://elev8.dev/)
 - [Email](mailto:cjcurtsinger502@aol.com)
 
 <!--
