@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am Justin Curtsinger, a student at Arizona State University studying Media Arts & Sciences (Graphic Information Technology) Class of December 2025. 
+I am Justin Curtsinger, a student at Arizona State University studying Media Arts & Sciences (Graphic Information Technology) (BA) Class of December 2025. 
+
+- 🌱 UX-minded web developer with full stack exposure.
 
 ## Skills
 
@@ -12,8 +14,6 @@ I am Justin Curtsinger, a student at Arizona State University studying Media Art
 - AI/ML Integrations
 - API Integrations
 - Stripe Integrations
-
-- 🌱 UX-minded web developer with full stack exposure.
 
 - 📫 How to reach me:
 - [ELEV8.DEV](https://elev8.dev/)
