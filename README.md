@@ -4,16 +4,20 @@ I am Justin Curtsinger, a student at Arizona State University studying Media Art
 
 ## Skills
 
-- HTML
-- CSS
-- JavaScript
-- Python
+- HTML/CSS (Vanilla, Bootstrap, Tailwind, and more)
+- JavaScript/TypeScript (Vanilla, Node, React, Next.js, Shadcn, Three.js, and more)
+- Python (Vanilla, Django, Flask, FastAPI, and more)
+- Firebase, Supabase, MongoDB, SQLite, MySQL, and more)
+- SQL/NoSQL
+- AI/ML Integrations
+- API Integrations
+- Stripe Integrations
 
-- 🌱 I’m currently learning front-end development and focusing on HTML, CSS, and JavaScript.
+- 🌱 UX-minded web developer with full stack exposure.
 
 - 📫 How to reach me:
 - [ELEV8.DEV](https://elev8.dev/)
-- [Email](mailto:cjcurtsinger502@aol.com)
+- [Email](mailto:jc@elev8.dev)
 
 <!--
 **JLCurtsinger/JLCurtsinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
