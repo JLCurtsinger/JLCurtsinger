@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Justin Curtsinger, a student at Arizona State University studying Media Arts & Sciences (Graphic Information Technology). 
+I am Justin Curtsinger, a student at Arizona State University studying Media Arts & Sciences (Graphic Information Technology) Class of December 2025. 
 
 ## Skills
 
