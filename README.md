@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I am Justin Curtsinger, a student at Arizona State University studying Media Arts & Sciences (Graphic Information Technology) (BA) Class of December 2025. 
-
-🌱 I'm a UX-minded web developer with full stack exposure.
+🌱 I'm Justin Curtsinger, a UX-minded web developer with full stack exposure and student at Arizona State University studying Media Arts & Sciences (Graphic Information Technology) (BA) Class of December 2025. 
 
 ## Skills
 
