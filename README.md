@@ -1,21 +1,24 @@
 ### Hi there 👋
 
-🌱 I'm Justin Curtsinger, a UX-minded web developer with full stack exposure and student at Arizona State University studying Media Arts & Sciences (Graphic Information Technology) (BA) Class of December 2025. 
+🌱 I'm Justin Curtsinger, a full-stack web developer focused on UX, AI integrations, and scalable web products.
 
 ## Skills
 
-- HTML/CSS (Vanilla, Bootstrap, Tailwind, and more)
-- JavaScript/TypeScript (Vanilla, Node, React, Next.js, Shadcn, Three.js, and more)
-- Python (Vanilla, Django, Flask, FastAPI, and more)
-- Firebase, Supabase, MongoDB, SQLite, MySQL, and more)
-- SQL/NoSQL
-- AI/ML Integrations
-- API Integrations
-- Stripe Integrations
+- Frontend: HTML/CSS, Tailwind, React, Next.js, Three.js, shadcn/ui
+- Backend: Node.js, Python (FastAPI, Flask), Django
+- Data: SQL, Supabase, Firebase, MongoDB
+- Integrations: APIs, Stripe, AI/ML pipelines
+- Tooling: Git/GitHub, Vercel/Netlify, Cloudflare
 
-- 📫 How to reach me:
-- [ELEV8.DEV](https://elev8.dev/)
+## Education
+
+Arizona State University - B.A. Media Arts & Sciences (Graphic Information Technology)
+Class of December 2025 · Summa Cum Laude
+
+## Contact
+
 - [Email](mailto:jc@elev8.dev)
+- [ELEV8.DEV](https://elev8.dev/)
 
 <!--
 **JLCurtsinger/JLCurtsinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,4 +35,4 @@ Here are some ideas to get you started:
 -->
 
 ## Contribution Graph
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JLCurtsinger&show_icons=true)
