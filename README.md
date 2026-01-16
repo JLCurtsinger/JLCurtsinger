@@ -6,7 +6,7 @@
 
 - Frontend: HTML/CSS, Tailwind, React, Next.js, Three.js, shadcn/ui
 - Backend: Node.js, Python (FastAPI, Flask), Django
-- Data: SQL, Supabase, Firebase, MongoDB
+- Data: Pandas, SQL, Supabase, Firebase, MongoDB
 - Integrations: APIs, Stripe, AI/ML pipelines
 - Tooling: Git/GitHub, Vercel/Netlify, Cloudflare
 
