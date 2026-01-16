@@ -15,6 +15,9 @@
 Arizona State University - B.A. Media Arts & Sciences (Graphic Information Technology)
 Class of December 2025 · Summa Cum Laude
 
+Jefferson Community & Technical College - A.A.S. Computer & Information Technology 
+Class of December 2021 · Summa Cum Laude
+
 ## Contact
 
 - [Email](mailto:jc@elev8.dev)
