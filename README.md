@@ -8,7 +8,7 @@
 - Backend: Node.js, Python (FastAPI, Flask), Django
 - Data: Pandas, SQL, Supabase, Firebase, MongoDB
 - Integrations: APIs, Stripe, AI/ML pipelines
-- Tooling: Git/GitHub, Vercel/Netlify, Cloudflare
+- Tooling: Git/GitHub, Vercel/Netlify
 
 ## Education
 
