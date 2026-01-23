@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I'm Justin Curtsinger, a data analyst and full-stack web developer focused on UX, AI integrations, and scalable web products.
+🌱 I'm Justin Curtsinger, a data engineer and full-stack web developer focused on UX, AI integrations, and scalable web products.
 
 ## Skills
 
