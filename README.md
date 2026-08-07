@@ -4,10 +4,10 @@
 
 ## Skills
 
-- Frontend: HTML/CSS, Tailwind, React, Next.js, Three.js, shadcn/ui
-- Backend: Node.js, Python (FastAPI, Flask), Django
+- Frontend: HTML/CSS, Next.js, shadcn/ui
+- Backend: Node.js, Python 
 - Data: Pandas, SQL, Supabase, Firebase, MongoDB
-- Integrations: APIs, Stripe, AI/ML pipelines
+- Integrations: APIs, Payments, AI/ML 
 - Tooling: Git/GitHub, Vercel/Netlify
 
 ## Education
