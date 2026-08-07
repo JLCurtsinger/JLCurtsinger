@@ -5,8 +5,8 @@
 ## Skills
 
 - Frontend: HTML/CSS, Next.js, shadcn/ui
-- Backend: Node.js, Python 
-- Data: Pandas, SQL, Supabase, Firebase, MongoDB
+- Backend: Node.js, Python, MongoDB
+- Data: SQL, Pandas
 - Integrations: APIs, Payments, AI/ML 
 - Tooling: Git/GitHub, Vercel/Netlify
 
