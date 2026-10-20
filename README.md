@@ -1,3 +1,4 @@
+<!--
 ### Hi there 👋
 
 🌱 I'm Justin Curtsinger, a data analyst and web developer focused on UX, AI integrations, and scalable web products.
@@ -23,7 +24,7 @@ Class of December 2021 · Summa Cum Laude
 - [Email](mailto:jc@elev8.dev)
 - [ELEV8.DEV](https://elev8.dev/)
 
-<!--
+
 **JLCurtsinger/JLCurtsinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
